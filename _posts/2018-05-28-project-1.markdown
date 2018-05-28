@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 2 Bedroom Flat
+subtitle: Rectory Road, Farnborough
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+modal-id: 1
+date: 2014-07-18
+img: rectory.jpg
+thumbnail: rectory-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
