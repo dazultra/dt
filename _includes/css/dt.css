@@ -165,7 +165,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    border-color: transparent;
+    border-bottom: 1px solid rgba(0,0,0,.1);
     padding: 10px 0;
     background-color: #ffffff;
 }
@@ -225,7 +225,6 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        border-bottom: 1px solid rgba(0,0,0,.1);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
