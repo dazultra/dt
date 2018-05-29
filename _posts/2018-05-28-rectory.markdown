@@ -1,0 +1,20 @@
+---
+title: 2 Bedroom Flat
+subtitle: Rectory Road, Farnborough
+layout: default
+modal-id: 1
+img: rectory.jpg
+thumbnail: rectory-thumbnail.jpg
+alt: image-alt
+date-available: July 2018
+furnishings: Unfurnished (Furnished available on request)
+bedrooms: Two Double
+bathrooms:	One Bathroom, one en-suite to master bedroom
+kitchen: Fully fitted with integrated dishwasher, washer dryer, cooker/hob and fridge freezer.
+parking: Two Allocated plus shared visitors parking
+outside: Communal Gardens
+location: Non estate location close to Station (5 minutes walk) and central Farnborough
+rent: £1,100 Unfurnished
+description: D&T Investment Properties Ltd are pleased to introduce to the lettings market this two double bedroom apartment in the centre of Farnborough, Hampshire. This property consists of two double bedrooms, en-suite to master, living/dining area , modern kitchen with fitted appliances and comes with two allocated parking spaces and two cycle rack spaces. In addition visitors parking slots are available shared amongst the 6 flats. This property is ideal for a professional couple/sharers & people who require good links to London, M3, A3 & M25.
+
+---

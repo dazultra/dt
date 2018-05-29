@@ -15,21 +15,20 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/properties/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <h3>Highlights</h3>
+                            <table class="highlights">
+                                <tr><td><strong>Date Available:</strong></td><td>{{ post.date-available }}</td></tr>
+                                <tr><td><strong>Furnishings:</strong></td><td>{{ post.furnishings }}</td></tr>
+                                <tr><td><strong>Bedrooms:</strong></td><td>{{ post.bedrooms }}</td></tr>
+                                <tr><td><strong>Bathrooms:</strong></td><td>{{ post.bathrooms }}</td></tr>
+                                <tr><td><strong>Kitchen:</strong></td><td>{{ post.kitchen }}</td></tr>
+                                <tr><td><strong>Parking:</strong></td><td>{{ post.parking }}</td></tr>
+                                <tr><td><strong>Outside:</strong></td><td>{{ post.outside }}</td></tr>
+                                <tr><td><strong>Location:</strong></td><td>{{ post.location }}</td></tr>
+                                <tr><td><strong>Rent:</strong></td><td>{{ post.rent }}</td></tr>
+                            </table>
+                            <h3>Full Description</h3>
                             <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
-                                </li>
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

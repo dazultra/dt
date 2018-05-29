@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand img {
     height: 100%;
-    margin: -9px 5px 0 0;
+    margin: -9px 12px 0 0;
 }
 
 
@@ -246,7 +246,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/dt/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -635,9 +635,6 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
@@ -752,9 +749,10 @@ footer ul.quicklinks {
     font-style: italic;
 }
 
-.properties-modal .modal-content ul.list-inline {
-    margin-top: 0;
-    margin-bottom: 30px;
+.properties-modal .modal-content table td {
+    text-align: left;
+    padding: 5px;
+    white-space: nowrap;
 }
 
 .properties-modal .modal-content img {
