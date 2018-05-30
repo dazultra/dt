@@ -26,8 +26,7 @@ $(function() {
                     email: email,
                     message: message
                 },
-                contentType: "application/json",
-                dataType: "html",
+                dataType: "text",
                 cache: false,
                 success: function() {
                     // Success message
