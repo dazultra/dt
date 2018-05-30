@@ -27,7 +27,7 @@ $(function() {
                     message: message
                 },
                 contentType: "application/json",
-                dataType: "json",
+                dataType: "html",
                 cache: false,
                 success: function() {
                     // Success message
